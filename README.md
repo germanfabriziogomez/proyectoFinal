@@ -1,3 +1,9 @@
+## Accede al Deploy 🌐
+
+Haz click [aquí](https://proyecto-final-beta-three.vercel.app/) para acceder al deploy.
+
+--
+
 # 🍽️ Proyecto Final - Recetas Nutricionales 🥗
 
 ## Descripción
@@ -29,24 +35,10 @@ Este proyecto es una aplicación web para gestionar recetas de cocina con un enf
 ## Tecnologías Usadas ⚙️
 
 - **React**: Biblioteca para construir la interfaz de usuario 🖥️.
-- **useState y useEffect**: Para el manejo del estado y efectos secundarios (como la acumulación del valor nutricional, y el renderizado de cada seccion) 🧠.
+- **useState y useEffect**: Para el manejo del estado y efectos secundarios (como la acumulación del valor nutricional, y el renderizado de cada sección) 🧠.
 - **localStorage**: Para almacenar las recetas y mantenerlas persistentes entre sesiones 📦.
 - **CSS (Tailwind CSS)**: Para el estilo de la aplicación, aprovechando su diseño responsivo para distintas pantallas 🎨.
 
-## Estructura del Proyecto
-
-src/
-├── components/
-│   ├── App/
-│      ├── home/
-│      ├── recipe-history/
-│      ├── create-recipe/
-│      ├── App.jsx
-│
-├── assets/
-│       ├── hero.jpg
-├── index.css
-├── main.jsx
 
 
 

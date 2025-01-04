@@ -1,0 +1,14 @@
+
+header {
+    background-image: linear-gradient(rgba(196, 196, 196, 0.71),rgba(196, 196, 196, 0)),url('../../assets/hero.jpg');
+    width: 100%;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 30px;
+}
+
+
+

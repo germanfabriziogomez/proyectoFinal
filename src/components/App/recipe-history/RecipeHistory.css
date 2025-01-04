@@ -1,0 +1,34 @@
+@media (min-width: 390px) and (max-width: 654px){
+    li {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    ol {
+        width: 100%;
+    }
+}
+@media (min-width: 655px) and (max-width: 849px){
+    ol {
+        width: 90%;
+    }
+    .btnEliminarReceta {
+        width: 280px;
+    }
+    
+}
+
+@media (min-width: 481px) and (max-width: 654px){
+    .btnEliminarReceta {
+        width: 160px;
+    }
+}
+
+@media (min-width: 850px) {
+    ol {
+        width: 70%;
+    }
+    .btnEliminarReceta {
+        width: 280px;
+    }
+}
